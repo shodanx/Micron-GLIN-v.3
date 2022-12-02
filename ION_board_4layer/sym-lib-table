@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DAC_board_schematic-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DAC_board_schematic-altium-import.kicad_sym")(options "")(descr ""))
+)

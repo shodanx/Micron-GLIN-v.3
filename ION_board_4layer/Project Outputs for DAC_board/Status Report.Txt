@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DAC_board.PrjPcb]
+   Generated File[DAC_board_PCB.GTO]
+   Generated File[DAC_board_PCB.GTP]
+   Generated File[DAC_board_PCB.GTS]
+   Generated File[DAC_board_PCB.GTL]
+   Generated File[DAC_board_PCB.G1]
+   Generated File[DAC_board_PCB.G2]
+   Generated File[DAC_board_PCB.GBL]
+   Generated File[DAC_board_PCB.GBS]
+   Generated File[DAC_board_PCB.GBO]
+   Generated File[DAC_board_PCB.GKO]
+   Generated File[DAC_board_PCB.RUL]
+   Generated File[DAC_board_PCB.EXTREP]
+   Generated File[DAC_board_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 16:38:27 On 02.12.2022

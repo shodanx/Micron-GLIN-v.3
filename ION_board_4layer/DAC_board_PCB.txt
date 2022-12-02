@@ -1,0 +1,24 @@
+Board Information Report
+Filename     : C:\Проекты\Micron-GLIN-v.2\ION_board_4layer\DAC_board_PCB.PcbDoc
+Date         : 11.10.2022
+Time         : 3:39:05
+Time Elapsed : 00:00:00
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 3, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 205, 0
+    0.3mm, 0, 425
+    0.6mm, 0, 1
+    0.9mm, 10, 0
+count : 4
+
+Pad Solder Mask, Count
+    0.0635mm, 218
+count : 1
+
+Net Via Size, Count
+    0.5588mm, 38
+count : 1
